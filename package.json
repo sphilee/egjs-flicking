@@ -114,7 +114,7 @@
 		"webpack-serve": "^2.0.2",
 		"webpack-stylish": "^0.1.8",
 		"webpackbar": "^2.6.1",
-		"write-file-webpack-plugin": "^4.1.0",
+		"write-file-webpack-plugin": "^4.5.0",
 		"xml2js": "^0.4.17"
 	}
 }
